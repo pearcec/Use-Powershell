@@ -15,3 +15,7 @@ I invite you to open yourself up to the possibility that Powershell is an improv
 While I have long abandoned trying to use Linux as a desktop, I still found myself customizing the experience and the tools to feel like bash.  This repository is a personal guide for me to stop doing bash things and start doing powershell things.
 
 This use-powershell uses [.NET Interactive](https://github.com/dotnet/interactive) for Jupyter style notebooks.
+
+## TODO
+
+* Link with https://docs.microsoft.com/en-us/azure/notebooks/quickstart-export-jupyter-notebook-project#use-notebooks-in-github-codespaces
